@@ -1,0 +1,30 @@
+{
+  "name": "graphql-tutorial",
+  "version": "1.0.0",
+  "description": "GraphQL Tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leuliv/graphql-tutorial.git"
+  },
+  "keywords": [
+    "graphql",
+    "tutorial"
+  ],
+  "author": "Leul W. Tewolde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leuliv/graphql-tutorial/issues"
+  },
+  "homepage": "https://github.com/leuliv/graphql-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
